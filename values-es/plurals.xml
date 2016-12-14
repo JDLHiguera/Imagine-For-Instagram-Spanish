@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="new_posts">
+        <item quantity="other">nuevos posts</item>
+        <item quantity="one">nuevo post</item>
+    </plurals>
+    <plurals name="others">
+        <item quantity="other">otros</item>
+        <item quantity="one">otro</item>
+    </plurals>
+    <plurals name="reposts">
+        <item quantity="other">re-publicaciones</item>
+        <item quantity="one">re-publicación</item>
+    </plurals>
+    <plurals name="users">
+        <item quantity="other">usuarios</item>
+        <item quantity="one">usuario</item>
+    </plurals>
+</resources>

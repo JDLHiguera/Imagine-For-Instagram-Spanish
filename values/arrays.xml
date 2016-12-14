@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_notification_interval_titles">
+        <item>@string/fifteen_minutes</item>
+        <item>@string/thirty_minutes</item>
+        <item>@string/one_hour</item>
+        <item>@string/two_hours</item>
+        <item>@string/six_hours</item>
+        <item>@string/twelve_hours</item>
+    </string-array>
+    <string-array name="pref_notification_interval_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>360</item>
+        <item>720</item>
+    </string-array>
+    <string-array name="pref_theme_titles">
+        <item>Default</item>
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+    <string-array name="pref_theme_values">
+        <item>@string/pref_theme_default</item>
+        <item>@string/pref_theme_light</item>
+        <item>@string/pref_theme_dark</item>
+    </string-array>
+    <string-array name="premium_features">
+        <item>@string/premium_feature_remove_ads</item>
+        <item>@string/premium_feature_multi_account</item>
+        <item>@string/premium_feature_repost</item>
+        <item>@string/premium_feature_theme</item>
+        <item>@string/premium_feature_colored_navigation_bar</item>
+    </string-array>
+</resources>
